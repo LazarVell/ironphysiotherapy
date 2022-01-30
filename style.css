@@ -1,0 +1,53 @@
+.bannertext {
+    font-size: 36px;
+    font-family: 'Alegreya SC', serif;
+}
+
+.max40 {
+    max-width: 40%;
+}
+
+.text-info {
+    font-size: 36px;
+}
+
+  .imgmin {
+      min-width: 200px;
+      max-height: 500px;
+  }
+
+  .lead {
+      max-width: 500px;
+  }
+  .screenwidth {
+      max-width: 100%;
+  }
+  .flexitem {
+      max-width: 20%;
+  }
+  .bi {
+    font-size: 32px;
+}
+.bi-facebook {
+    color:blue;
+}
+.bi-twitter {
+    color:aqua;
+}
+.bi-youtube {
+    color:red;
+}
+  @media only screen and (max-width: 600px) {
+    .bigtext {
+      font-size: 128px;
+      margin: 0px;
+    }
+    .max40 {
+        max-width: 100%;
+    }
+    .flexitem {
+        max-width: 100%;
+    }
+  }
+  
+  
